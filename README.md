@@ -221,4 +221,4 @@ ArmA 2 is available as a **full free version** for Windows, providing all featur
 Take the plunge into thrilling combat and download ArmA 2 today for an unparalleled gaming experience!
 
 ---
-**Last updated:** 2026-10-28 21:26:28 UTC
+**Last updated:** 2026-10-29 01:24:59 UTC
